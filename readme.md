@@ -1,6 +1,6 @@
-# MINeD - Research Paper Processing API
+# MINeD Hackathon - Research Paper Processing API
 
-MINeD (Minimalistic Document Summarizer and Extraction for Disaster Management) processes research papers and extracts meaningful summaries and prompts to assist in disaster management decision-making.
+
 
 ## Project Screenshots
 
