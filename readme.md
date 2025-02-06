@@ -1,4 +1,4 @@
-# MINeD Hackathon - Research Paper Processing API
+# MINeD Hackathon 
 
 
 
